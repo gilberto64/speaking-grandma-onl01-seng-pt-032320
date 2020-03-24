@@ -4,7 +4,7 @@ require "pry"
 
 def speak_to_grandma (phrase)
   if phrase == "I LOVE YOU GRANDMA!"
-    "I LOVE YOU PUMPKIN"
+    "I LOVE YOU TOO PUMPKIN"
   elseif phrase == phrase.upcase
     "NO, NOT SINCE 1938"
   else 
